@@ -17,6 +17,5 @@ Pros:
 - Automatically recognizes the Roblox Client and injects (most of the time)
 
 Cons:
-- Buttons aren't toggle
 - Jump Power change doesn't work (i think) because I was too dumb and lazy to add that somehow
-- Script editor isn't really an editor. There's no syntax clarifications. I don't recommend using it to write scripts inside of it directly, even though it would technically work. It's just not the best way to write scripts
+- Script editor has neither syntax clarifications nor error checking.
