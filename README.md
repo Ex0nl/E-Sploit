@@ -4,7 +4,8 @@ Neat and small JJSploit inspired executor
 ## IMPORTANT! The run file "Esploit.exe" is inside Esploit/bin/x64/Debug/net8.0-windows
 
 SHOWCASE:
-![image](https://github.com/user-attachments/assets/67cd2ccc-537c-4b11-83cb-e7ce4d41c750)
+![image](https://github.com/user-attachments/assets/8c86ce05-773c-4549-af8b-4ddea53b527c)
+
 
 Pros:
 
