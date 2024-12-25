@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Hovac_API">
+      <HintPath>..\..\..\Downloads\Hovac_API.dll</HintPath>
+    </Reference>
+    <Reference Include="SaladAPI">
+      <HintPath>..\..\..\Desktop\SaladAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
