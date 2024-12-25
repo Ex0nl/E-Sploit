@@ -19,3 +19,4 @@ Pros:
 Cons:
 - Buttons aren't toggle
 - Jump Power change doesn't work (i think) because I was too dumb and lazy to add that somehow
+- Script editor isn't really an editor. There's no syntax clarifications. I don't recommend using it to write scripts inside of it directly, even though it would technically work. It's just not the best way to write scripts
