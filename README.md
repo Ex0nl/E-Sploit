@@ -7,6 +7,8 @@ Neat and small JJSploit inspired executor
 SHOWCASE:
 ![image](https://github.com/user-attachments/assets/8c86ce05-773c-4549-af8b-4ddea53b527c)
 
+This executor works on Salad API and I am NOT the creator of Salad API. I am the one that created this executor, the design, and the functions of the design using Salad API.
+Salad API Discord server: https://discord.com/invite/jqTZGaqkaC
 
 Pros:
 
