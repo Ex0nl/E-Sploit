@@ -25,4 +25,5 @@ Pros:
 
 Cons:
 - Jump Power change doesn't work (i think) because I was too dumb and lazy to add that somehow
+- Doesn't Update automatically.
 - Script editor has neither syntax clarifications nor error checking.
