@@ -4,7 +4,7 @@ Neat and small JJSploit inspired executor
 ## IMPORTANT! This Executor will possibly be flagged as a virus by your antivirus, because this executor, just like every other executor needs to inject a DLL inside of roblox, for the script to work inside of Roblox.
 ## Only download the things you trust! This program is completely open source so you can check for yourself, if this program is reliable to you or not. Stay cautious downloading Executors!
 
-## IMPORTANT! To use it Open ESploit.exe inside of the ZIP folder and extract it from there
+## IMPORTANT! To use it Open ESploit.exe inside of the ZIP folder and extract it from the prompt thats given. DO NOT extract it outside of that prompt
 
 SHOWCASE:
 ![image](https://github.com/user-attachments/assets/8c86ce05-773c-4549-af8b-4ddea53b527c)
