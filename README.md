@@ -7,7 +7,8 @@ Neat and small Roblox executor with Quick access script buttons.
 ## IMPORTANT! To use it Open ESploit.exe inside of the ZIP folder and extract it from the prompt thats given. DO NOT extract it outside of that prompt
 
 SHOWCASE:
-![image](https://github.com/user-attachments/assets/fb071a58-b9f7-475a-998b-535be20ee6e6)
+![image](https://github.com/user-attachments/assets/d2ed6a4d-7053-48cd-b553-f86679c8e24f)
+
 
 
 This executor works on Salad API and I am NOT the creator of Salad API. I am the one that created this executor, the design, and the functions of the design using Salad API.
