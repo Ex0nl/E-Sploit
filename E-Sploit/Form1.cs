@@ -66,7 +66,7 @@ namespace E_XPloit
 
         private void button3_Click(object sender, EventArgs e)
         {
-            SaladAPI.MainFunctions.Execute("loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IlikeyocutgHAH12/FEEGGEG/refs/heads/main/%5BFE%5D%20Energize%20Animation%20Gui.txts true))()");
+            SaladAPI.MainFunctions.Execute("loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IlikeyocutgHAH12/FEEGGEG/refs/heads/main/%5BFE%5D%20Energize%20Animation%20Gui.txt true))()");
         }
 
         private void button5_Click_1(object sender, EventArgs e)
