@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "E-XPloit/1.0.0": {
+        "runtime": {
+          "E-XPloit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-XPloit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
